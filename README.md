@@ -3,7 +3,7 @@
 *     HTPS:/Androidaps.readthocs
 * Androidaps 〔 ‡ ↕ ☏ ‘ 
 
-[!支持服务器](https://img.shields.io/discord/629952586895851530.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)] (https://discord.g/4fQUWHZ4MW)
+[!支持服务器](https://img.shields.io/discord/629952586895851530.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)] 
 
 [!](https://circleci.com/gh/nightscout/AndroidAPS/tree/master.svg?style=svg)](https:/cileci.com/gh/migrescout/marter)
 [!人群](https://d322cqt584bo4o.cloudfront.net/androidaps/localized.svg)【https:/trans.androidaps.org/nadî/Androidaps)
