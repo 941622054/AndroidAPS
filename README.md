@@ -1,30 +1,31 @@
+
 # AndroidAPS
-* Check the wiki: https://androidaps.readthedocs.io
-*  Everyone who’s been looping with AndroidAPS needs to fill out the form after 3 days of looping  https://docs.google.com/forms/d/14KcMjlINPMJHVt28MDRupa4sz4DDIooI4SrW0P3HSN8/viewform?c=0&w=1
+*     HTPS:/Androidaps.readthocs
+* Androidaps 〔 ‡ ↕ ☏ ‘ 
 
-[![Support Server](https://img.shields.io/discord/629952586895851530.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/4fQUWHZ4Mw)
+[!支持服务器](https://img.shields.io/discord/629952586895851530.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)] (https://discord.g/4fQUWHZ4MW)
 
-[![CircleCI](https://circleci.com/gh/nightscout/AndroidAPS/tree/master.svg?style=svg)](https://circleci.com/gh/nightscout/AndroidAPS/tree/master)
-[![Crowdin](https://d322cqt584bo4o.cloudfront.net/androidaps/localized.svg)](https://translations.androidaps.org/project/androidaps)
-[![Documentation Status](https://readthedocs.org/projects/androidaps/badge/?version=latest)](https://androidaps.readthedocs.io/en/latest/?badge=latest)
-[![codecov](https://codecov.io/gh/nightscout/AndroidAPS/branch/master/graph/badge.svg)](https://codecov.io/gh/MilosKozak/AndroidAPS)
+[!](https://circleci.com/gh/nightscout/AndroidAPS/tree/master.svg?style=svg)](https:/cileci.com/gh/migrescout/marter)
+[!人群](https://d322cqt584bo4o.cloudfront.net/androidaps/localized.svg)【https:/trans.androidaps.org/nadî/Androidaps)
+[!文件状况](https://readthedocs.org/projects/androidaps/badge/?version=latest)【htps】〔【【】【[】【【【】【【【】【[】【【】【【】【解析】【【】】【【】》】【【【】【】】【【】》】【【】》】【【】【】【【】》】【【】 】【【】【【】》】【【】】】【【】【】】【【】》】【【】【】【】
+[!codecov](https://codecov.io/gh/nightscout/AndroidAPS/branch/master/graph/badge.svg)](https://codecov.io/gh/Milosk/AndroidAPS)
 
-DEV: 
-[![CircleCI](https://circleci.com/gh/nightscout/AndroidAPS/tree/dev.svg?style=svg)](https://circleci.com/gh/nightscout/AndroidAPS/tree/dev)
-[![codecov](https://codecov.io/gh/nightscout/AndroidAPS/branch/dev/graph/badge.svg)](https://codecov.io/gh/MilosKozak/AndroidAPS)
+Dev: 
+[!](https://circleci.com/gh/nightscout/AndroidAPS/tree/dev.svg?style=svg)](https:/cileci.com/gh/mighscout/AndroidAPS/tree/dev)
+[!codecov](https://codecov.io/gh/nightscout/AndroidAPS/branch/dev/graph/badge.svg)](https://codecov.io/gh/Milosk/AndroidAPS)
 
 
-<img src="https://cdn.iconscout.com/icon/free/png-256/bitcoin-384-920569.png" srcset="https://cdn.iconscout.com/icon/free/png-512/bitcoin-384-920569.png 2x" alt="Bitcoin Icon" width="100">
+▲照片=美联社/韩新社/韩联署/韩联社-韩联社/英联社/韩流/韩联社、韩联社/英/韩联社-韩联社/英/韩联社-韩联社//韩联社、韩联社//韩联社、韩联社/韩联社/韩联社/韩联社
 
-3KawK8aQe48478s6fxJ8Ms6VTWkwjgr9f2
+3KawK8aQe48478s6fxJ8MS6VTWKWJGR9f2
 
-## How to Build
-## 如何编译
+##  如何建造
+##            如何编译          
 
-### If your are familiar with Android development:
-* Fork this repository.
-* Replace `keystore/demokeystore.jks` with your own key store file.
-* Add below secrets in the  `Actions secrets and variables` settings of your repository.  
+###  如果你熟悉Android开发:
+*  叉这个存储库。
+*  替换  `Keystore/demokeystore.jks`  有你自己的钥匙店文件。
+*  在  `Actions secrets and variables`  存储库的设置。  
 <a href="/Documentation/screen1.png"><img src="/Documentation/screen1.png?raw=true" alt="Screenshot of Actions secrets" width="800"></a>  
   `KEY_ALIAS`:  Key alais of your key store file.
   `KEY_PASSWORD`: key password of your key store file.
@@ -33,7 +34,7 @@ DEV:
 * Trigger build in Github Actions
 * Download the `aaps.zip` file in `Artifacts`
 
-### 如果你熟悉安卓开发：
+###  如果你熟悉安卓开发：
 * 克隆此代码仓库到你自己的Github账号
 * 用你自己的安卓签名文件替换你克隆的仓库中的`keystore/demokeystore.jks`
 * 在你克隆的仓库设置中的  `Actions secrets and variables` 选项中添加如下秘密环境变量：  
@@ -63,8 +64,8 @@ Please follow these steps:
 你需要获取安卓签名文件的密码等信息，因安全原因，这些敏感信息不能公开发布于此。
 **强烈建议学习相关知识，编译完APK后，用你自己的签名文件签名。**
 请按如下步骤操作:
-* 克隆此代码仓库到你自己的Github账号
-* 扫描下方二维码关注“一型码农Lex”微信公众号。Scan the below QR code and subscribe "一型码农Lex" WeChat Channel.  
+*  克隆此代码仓库到你自己的Github账号
+ * 扫描下方二维码关注“一型码农Lex”微信公众号。Scan the below QR code and subscribe "一型码农Lex" WeChat Channel.   
 <a href="/Documentation/wechat_qr.png"><img src="/Documentation/wechat_qr.png?raw=true" alt="WeChat Channel QR code" width="340"></a>  
 * 点击“一型码农Lex”微信公众号的中间菜单，获取入群二维码。进去索要签名文件的密码。
 * 在你克隆的仓库设置中的  `Actions secrets and variables` 选项中添加如下秘密环境变量：  
